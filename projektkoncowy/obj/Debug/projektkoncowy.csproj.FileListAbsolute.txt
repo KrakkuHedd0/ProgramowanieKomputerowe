@@ -1,0 +1,8 @@
+C:\Users\MTG97\source\repos\projektkoncowy\projektkoncowy\obj\Debug\projektkoncowy.csproj.AssemblyReference.cache
+C:\Users\MTG97\source\repos\projektkoncowy\projektkoncowy\obj\Debug\projektkoncowy.csproj.SuggestedBindingRedirects.cache
+C:\Users\MTG97\source\repos\projektkoncowy\projektkoncowy\obj\Debug\projektkoncowy.csproj.CoreCompileInputs.cache
+C:\Users\MTG97\source\repos\projektkoncowy\projektkoncowy\bin\Debug\projektkoncowy.exe.config
+C:\Users\MTG97\source\repos\projektkoncowy\projektkoncowy\bin\Debug\projektkoncowy.exe
+C:\Users\MTG97\source\repos\projektkoncowy\projektkoncowy\bin\Debug\projektkoncowy.pdb
+C:\Users\MTG97\source\repos\projektkoncowy\projektkoncowy\obj\Debug\projektkoncowy.exe
+C:\Users\MTG97\source\repos\projektkoncowy\projektkoncowy\obj\Debug\projektkoncowy.pdb
